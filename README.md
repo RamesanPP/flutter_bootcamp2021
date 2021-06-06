@@ -1,6 +1,6 @@
-# flutter_bootcamp
+# flutter_bootcamp2021
 
-A new Flutter project.
+Flutter Kerala Bootcamp 2021 GTech ATFG
 
 ## Getting Started
 
